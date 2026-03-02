@@ -13,7 +13,7 @@ To address the critical scarcity of open-access benchmarks in the semiconductor 
 - **Scale**: 80,000 multi-stage transition samples uniformly stratified to guarantee balanced state-space coverage.
 
 --
-![simulation trj](2_2.tif)
+![simulation trj](2_2.png)
 
 ## 📁 Dataset Structure
 
