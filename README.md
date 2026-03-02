@@ -1,7 +1,7 @@
 # Etch-RL Dataset: A Fab-Calibrated Offline RL Benchmark for Semiconductor Plasma Etching
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Paper](https://img.shields.io/badge/Paper-Under%20Review-blue)](#) Welcome to the official dataset repository for the paper: **** (currently under review at **).
+[![Paper](https://img.shields.io/badge/Paper-Under%20Review-blue)](#) Welcome to the official dataset repository for the paper: Jianming Guo **** (currently under review at **).
 
 To address the critical scarcity of open-access benchmarks in the semiconductor manufacturing domain, we are open-sourcing our complete **80,000-sample Fab-calibrated sequential etching dataset**. This repository provides a high-fidelity, physically verified testbed for researchers developing Offline Reinforcement Learning (RL) and Advanced Process Control (APC) algorithms.
 
@@ -13,7 +13,7 @@ To address the critical scarcity of open-access benchmarks in the semiconductor 
 - **Scale**: 80,000 multi-stage transition samples uniformly stratified to guarantee balanced state-space coverage.
 
 --
-
+![simulation trj](2_2.tif)
 
 ## 📁 Dataset Structure
 
